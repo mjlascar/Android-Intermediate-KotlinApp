@@ -1,4 +1,4 @@
-package com.mjlapps.horoscopoapp.ui.horoscope
+package com.mjlapps.horoscopoapp.ui.luck
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -14,9 +14,6 @@ class LuckFragment : Fragment() {
     private var _binding: FragmentLuckBinding? = null
     private val binding get() = _binding!!
 
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-    }
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,

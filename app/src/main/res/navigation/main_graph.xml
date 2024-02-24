@@ -7,12 +7,12 @@
 
     <fragment
         android:id="@+id/luckFragment"
-        android:name="com.mjlapps.horoscopoapp.ui.horoscope.LuckFragment"
+        android:name="com.mjlapps.horoscopoapp.ui.luck.LuckFragment"
         android:label="LuckFragment"
         tools:layout="@layout/fragment_luck"/>
     <fragment
         android:id="@+id/palmistryFragment"
-        android:name="com.mjlapps.horoscopoapp.ui.horoscope.PalmistryFragment"
+        android:name="com.mjlapps.horoscopoapp.ui.palmistry.PalmistryFragment"
         android:label="PalmistryFragment"
         tools:layout="@layout/fragment_palmistry"/>
     <fragment

@@ -1,4 +1,4 @@
-package com.mjlapps.horoscopoapp.ui.horoscope
+package com.mjlapps.horoscopoapp.ui.palmistry
 
 import android.os.Bundle
 import android.view.LayoutInflater
